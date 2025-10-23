@@ -1,1 +1,1 @@
-console.groupCollapsed("Shanky")
+console.log("Shanky")
